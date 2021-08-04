@@ -1,0 +1,9 @@
+.page {
+  margin: 0 auto;
+  max-width: 1280px;
+  min-width: 320px;
+  font-family: 'Arial', sans-serif;
+  font-style: normal;
+  color: black;
+  background: white;
+}
