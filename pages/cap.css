@@ -1,9 +1,0 @@
-@import url('../vendor/normalize.css');
-@import url('../vendor/fonts.css');
-@import url('../blocks/content/content.css');
-
-@import url('../blocks/cap/cap.css');
-@import url('../blocks/cap/__title/cap__title.css');
-@import url('../blocks/cap/__subtitle/cap__subtitle.css');
-@import url('../blocks/cap/__return/cap__return.css');
-@import url('../blocks/cap/__pic/cap__pic.css');
