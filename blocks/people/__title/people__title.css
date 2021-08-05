@@ -1,0 +1,9 @@
+.people__title {
+  margin: 30px 0 0;
+  max-width: 550px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 38px;
+  color: black;
+}
