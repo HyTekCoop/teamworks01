@@ -1,0 +1,7 @@
+
+@media screen and (max-width:768px) {
+    .place {
+        grid-column: 1;
+        grid-row: 4;
+    }
+}
