@@ -1,0 +1,15 @@
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+@media screen and (max-width: 619px) {
+  .table {
+    justify-content: center;
+  }
+}

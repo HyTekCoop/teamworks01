@@ -1,0 +1,11 @@
+.people {
+  display: flex;
+  flex-direction: column;
+  margin: 150px 70px 0 48px;
+}
+
+@media screen and (max-width: 420px) {
+  .people {
+    margin: 120px 35px 0;
+  }
+}

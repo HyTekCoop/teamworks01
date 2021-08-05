@@ -1,0 +1,11 @@
+.intro__text-column {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 420px) {
+  .intro__text-column {
+    margin: 0 35px 0;
+  }
+}
