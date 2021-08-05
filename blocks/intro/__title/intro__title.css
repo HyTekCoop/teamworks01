@@ -19,3 +19,9 @@
     max-width: 350px;
   }
 }
+
+@media screen and (max-width: 720px) {
+  .intro__title {
+    max-width: 550px;
+  }
+}
