@@ -1,0 +1,32 @@
+.place__title {
+  margin: 48px 0 auto;
+  font-family: 'Arial',sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 38px;
+  color: black;
+  
+}
+
+@media screen and (max-width:1005px) {
+  .place__title {    
+    font-size: 28px;
+    line-height: 30px;
+    margin: 35px 0 auto;
+  }
+}
+
+@media screen and (max-width:770px) {
+  .place__title {    
+    margin: 20px 0 auto;
+  }
+}
+
+@media screen and (max-width:710px) {
+  .place__title {    
+    font-size: 28px;
+    line-height: 30px;
+    margin: 35px 0 ;
+  }
+}
