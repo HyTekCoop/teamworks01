@@ -4,8 +4,8 @@
   margin: 150px 70px 0 48px;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 710px) {
   .people {
-    margin: 120px 35px 0;
+    margin: 110px 35px 0;
   }
 }
