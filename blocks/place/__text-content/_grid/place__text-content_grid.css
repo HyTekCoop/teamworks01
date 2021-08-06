@@ -1,0 +1,6 @@
+@media screen and (max-width:710px) {
+    .place__text-content_grid {
+        grid-column: 1;
+        grid-row: 5;
+    }
+}
